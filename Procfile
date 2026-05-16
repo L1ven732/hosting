@@ -1,1 +1,1 @@
-web: gunicorn first_project.wsgi
+web: gunicorn not_first_project.wsgi
