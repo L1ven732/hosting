@@ -16,16 +16,16 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from first_app.views import index_page
-from first_app.views import time_page
-from first_app.views import calc_page
-from first_app.views import multiply
-from first_app.views import expression
-from first_app.views import history
-from first_app.views import login_page
-from first_app.views import logout_page
-from first_app.views import str2words_page
-from first_app.views import str_history_view
+from first_app import index_page
+from first_app import time_page
+from first_app import calc_page
+from first_app import multiply
+from first_app import expression
+from first_app import history
+from first_app import login_page
+from first_app import logout_page
+from first_app import str2words_page
+from first_app import str_history_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
