@@ -1,0 +1,35 @@
+2026-02-07T13:17:50.919019+0300 INFO User: AnonymousUser | Time: 2026-02-07 13:17:50.918948 | View: index_page | Method: GET | Params: {}
+2026-02-07T13:18:11.028990+0300 INFO User: AnonymousUser | Time: 2026-02-07 13:18:11.028956 | View: index_page | Method: GET | Params: {}
+2026-02-07T13:18:23.923852+0300 INFO User: AnonymousUser | Time: 2026-02-07 13:18:23.923830 | View: login_page | Method: GET | Params: {}
+2026-02-07T13:18:34.965340+0300 INFO User: AnonymousUser | Time: 2026-02-07 13:18:34.965313 | View: login_page | Method: POST | Params: {'csrfmiddlewaretoken': '8gUqi6ORu8bUCqFtvbOgVPt0NtQBjZ56sZ1dDNXtPHVZtcRJ9ZxayqtYvtpCXogB', 'username': 'vasya', 'password': 'promprog'}
+2026-02-07T13:18:35.469019+0300 INFO User vasya logged in successfully
+2026-02-07T13:18:35.479478+0300 INFO User: vasya | Time: 2026-02-07 13:18:35.479442 | View: index_page | Method: GET | Params: {}
+2026-02-07T13:18:51.821957+0300 INFO User: vasya | Time: 2026-02-07 13:18:51.821932 | View: time_page | Method: GET | Params: {}
+2026-02-07T13:18:53.229069+0300 INFO User: vasya | Time: 2026-02-07 13:18:53.229045 | View: calc_page | Method: GET | Params: {}
+2026-02-07T13:18:53.974138+0300 INFO User: vasya | Time: 2026-02-07 13:18:53.974114 | View: multiply | Method: GET | Params: {}
+2026-02-07T13:18:54.418753+0300 INFO User: vasya | Time: 2026-02-07 13:18:54.418727 | View: multiply | Method: GET | Params: {}
+2026-02-07T13:18:54.916834+0300 INFO User: vasya | Time: 2026-02-07 13:18:54.916805 | View: expression | Method: GET | Params: {}
+2026-02-07T13:18:55.318570+0300 INFO User: vasya | Time: 2026-02-07 13:18:55.318545 | View: history | Method: GET | Params: {}
+2026-02-07T13:18:55.845613+0300 INFO User: vasya | Time: 2026-02-07 13:18:55.845588 | View: str2words_page | Method: GET | Params: {}
+2026-02-07T13:18:56.246259+0300 INFO User: vasya | Time: 2026-02-07 13:18:56.246235 | View: str_history_view | Method: GET | Params: {}
+2026-02-07T13:18:56.709961+0300 INFO User: vasya | Time: 2026-02-07 13:18:56.709934 | View: logout_page | Method: GET | Params: {}
+2026-02-07T13:18:56.710063+0300 INFO User vasya logged out
+2026-02-07T13:18:56.718092+0300 INFO User: AnonymousUser | Time: 2026-02-07 13:18:56.718051 | View: index_page | Method: GET | Params: {}
+2026-02-07T13:18:58.185001+0300 INFO User: AnonymousUser | Time: 2026-02-07 13:18:58.184976 | View: login_page | Method: GET | Params: {}
+2026-02-07T13:19:04.540520+0300 INFO User: AnonymousUser | Time: 2026-02-07 13:19:04.540503 | View: login_page | Method: POST | Params: {'csrfmiddlewaretoken': 'jUgL8bpMBcvylbE0fDAJzN1ogqybBkQ4yAOZKPYoHBgC2Bg3RRFkqM3wdn9rltBE', 'username': 'vasya', 'password': 'promprog'}
+2026-02-07T13:19:05.003016+0300 INFO User vasya logged in successfully
+2026-02-07T13:19:05.009918+0300 INFO User: vasya | Time: 2026-02-07 13:19:05.009894 | View: index_page | Method: GET | Params: {}
+2026-02-07T13:19:22.459759+0300 INFO User: vasya | Time: 2026-02-07 13:19:22.459731 | View: time_page | Method: GET | Params: {}
+2026-02-07T13:19:23.930415+0300 INFO User: vasya | Time: 2026-02-07 13:19:23.930386 | View: str2words_page | Method: GET | Params: {}
+2026-02-07T13:19:25.128275+0300 INFO User: vasya | Time: 2026-02-07 13:19:25.128250 | View: history | Method: GET | Params: {}
+2026-02-07T13:19:26.473121+0300 INFO User: vasya | Time: 2026-02-07 13:19:26.473094 | View: time_page | Method: GET | Params: {}
+2026-04-26T16:15:36.846142+0300 INFO User: AnonymousUser | Time: 2026-04-26 16:15:36.846103 | View: index_page | Method: GET | Params: {}
+2026-04-26T16:15:51.570790+0300 INFO User: AnonymousUser | Time: 2026-04-26 16:15:51.570747 | View: index_page | Method: GET | Params: {}
+2026-04-26T16:19:43.395419+0300 INFO User: AnonymousUser | Time: 2026-04-26 16:19:43.395352 | View: index_page | Method: GET | Params: {}
+2026-04-26T16:27:59.279735+0300 INFO User: AnonymousUser | Time: 2026-04-26 16:27:59.279647 | View: index_page | Method: GET | Params: {}
+2026-04-26T16:28:12.533575+0300 INFO User: AnonymousUser | Time: 2026-04-26 16:28:12.533526 | View: index_page | Method: GET | Params: {}
+2026-04-26T16:28:46.229392+0300 INFO User: AnonymousUser | Time: 2026-04-26 16:28:46.229355 | View: index_page | Method: GET | Params: {}
+2026-04-26T16:28:49.343178+0300 INFO User: AnonymousUser | Time: 2026-04-26 16:28:49.343131 | View: index_page | Method: GET | Params: {}
+2026-04-26T16:29:28.426258+0300 INFO User: AnonymousUser | Time: 2026-04-26 16:29:28.426232 | View: expression | Method: GET | Params: {}
+2026-04-26T16:29:35.610248+0300 INFO User: AnonymousUser | Time: 2026-04-26 16:29:35.610211 | View: history | Method: GET | Params: {}
+2026-05-16T23:18:53.121901+0300 INFO User: AnonymousUser | Time: 2026-05-16 23:18:53.121866 | View: index_page | Method: GET | Params: {}
